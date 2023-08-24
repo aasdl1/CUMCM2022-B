@@ -19,7 +19,7 @@
       │
       ├─PICs
       │      // ppt中绘制图形的源文件 
-      │      //在 [geogebra](https://www.geogebra.org/geometry/) 中打开
+      │      // 在 https://www.geogebra.org/geometry/ 中打开
       │
       ├─Simulation
       │  │ // 模拟的代码和结果
