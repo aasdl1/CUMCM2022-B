@@ -2,6 +2,7 @@
 建模国赛B题分享（无人机定位与调整）（全国大学生数学建模竞赛，CUMCM）
 - 论文标题：无人机编队飞行中的纯方位无源定位模型研究
 - 获奖等级：国家级二等奖
+- b站讲解：[关于2022国赛B题的若干讨论-aas](https://www.bilibili.com/video/BV1ou4y1Y7fR/)
 
 ## 文件包含：
 - 源代码（大部分`matlab`）
@@ -18,7 +19,7 @@
       │
       ├─PICs
       │      // ppt中绘制图形的源文件 
-      │      //在https://www.geogebra.org/geometry/中打开
+      │      //在 [geogebra](https://www.geogebra.org/geometry/) 中打开
       │
       ├─Simulation
       │  │ // 模拟的代码和结果
