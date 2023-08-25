@@ -17,12 +17,11 @@
       │  Solutions-无人机编队飞行中的纯方位无源定位模型研究.pdf    //我们的paper
       │  2022国赛B分享-Slides.pdf                               //分享的slides
       │
-      ├─PICs
-      │      // ppt中绘制图形的源文件 
-      │      // 在 https://www.geogebra.org/geometry/ 中打开
+      ├─Source_Latex
+      │      // paper 源代码
       │
       ├─Simulation
-      │  │ // 模拟的代码和结果
+      │  │   // 模拟的代码和结果
       │  ├─code
       │  │  ├─q3
       │  │  │
@@ -31,6 +30,9 @@
       │      ├─q3
       │      │
       │      └─q4
+      ├─PICs
+      │      // ppt中绘制图形的源文件 
+      │      // 在 https://www.geogebra.org/geometry/ 中打开
       │
       └─手稿
               // 本人比赛过程中的一些手稿
